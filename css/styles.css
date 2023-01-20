@@ -1,0 +1,30 @@
+header {
+    padding: 16px;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 8px #ddd;
+}
+
+header img {
+    width: 100px;
+}
+
+nav {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+ul {
+
+    gap: 15px;
+}
+
+.btn {
+    display: inline;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+}
